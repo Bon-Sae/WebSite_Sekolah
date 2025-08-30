@@ -13,3 +13,4 @@ Server Requirements :
 + PHP 5.6.14 (VC11 X86 32bit thread safe) + PEAR
 + PhpMyAdmin 4.0.4
 
+![Alt text](https://github.com/Bon-Sae/WebSite_Sekolah/blob/main/web_sekolah.jpg)
