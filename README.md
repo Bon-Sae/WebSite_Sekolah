@@ -1,11 +1,11 @@
 # WebSite_Sekolah
 Website untuk Sekolah dengan CI
 
-Login admin di : http://localhost/sekolah_ci/administrator
-username : admin
-password : admin123
-
-
+## Login admin di : http://localhost/sekolah_ci/administrator
+#### username : admin
+#### password : admin123
+#
+#
 Server Requirements :
 + XAMPP Version 5.6.14 
 + Apache 2.4.4
